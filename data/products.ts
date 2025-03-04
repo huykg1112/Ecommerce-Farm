@@ -186,5 +186,4 @@ export const products = [
     category: "Trái cây",
     createdAt: "2023-12-15T00:00:00Z",
   },
-]
-
+];
